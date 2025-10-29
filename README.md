@@ -1,5 +1,7 @@
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/efcc4034-f7e6-4449-a058-6e17d03c9359" />
+-------------------------
 # Doctor Appointment App
+-------------------------
 
 | # | Team Members                     | ID |
 |---|------------------------------|-------------|
@@ -8,6 +10,23 @@
 | 3 | **Haydi Mostafa**            | 231000076   |
 | 4 | **AlaaAllah Arafa**          | 231000568   |
 
+#Features
+----------
+Home screen displaying available products
+Search and filter functionality for easier browsing
+Shopping cart and checkout system
+User registration and login
+Product management (add, edit, delete, view)
+Order handling and tracking
+Secure payment integration
+Responsive design for all devices
+Database integration for persistent data storage
+
+#Technologies Used
+-------------------
+Flutter
+
  
+
 
 
